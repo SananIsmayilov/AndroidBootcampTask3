@@ -120,7 +120,6 @@
         android:text="Web Development"
         android:textColor="@color/black"
         android:textStyle="normal"
-        android:layout_marginTop="12dp"
         android:textSize="18sp"
         android:layout_height="60dp"/>
 
@@ -134,7 +133,6 @@
         android:text="İllustration"
         android:textColor="@color/black"
         android:textStyle="italic"
-        android:layout_marginTop="12dp"
         android:textSize="18sp"
         android:layout_marginLeft="10dp"
         android:layout_height="60dp"/>
@@ -148,6 +146,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@id/chip3"
         android:layout_height="wrap_content"/>
+
+
 
     <ImageView
         android:layout_width="wrap_content"
