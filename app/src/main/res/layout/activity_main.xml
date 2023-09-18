@@ -20,7 +20,7 @@
             android:id="@+id/text1"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:text="Good Morning,"
+            android:text="Good Morning, "
             android:textSize="25sp"
             android:textColor="@color/textcolor"
             android:textStyle="bold"
